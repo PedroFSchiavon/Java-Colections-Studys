@@ -5,8 +5,8 @@ import java.util.Collections;
 import java.util.List;
 
 public class Curso {
-    private String nome;
-    private String instrutor;
+    private final String nome;
+    private final String instrutor;
     private final List<Aula> aulas = new ArrayList<>();
 
     public Curso(String nome, String instrutor) {
