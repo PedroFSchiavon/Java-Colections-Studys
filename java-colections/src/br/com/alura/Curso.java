@@ -42,6 +42,10 @@ public class Curso {
         this.alunos.add(aluno);
     }
 
+    public boolean estaMatriculado(Aluno aluno){
+        return this.alunos.contains(aluno);
+    }
+
     @Override
     public String toString() {
         return "[Curso: " + nome + ", Duração: " + duracaoTotal() + ", \nAulas: " + aulas + "]";

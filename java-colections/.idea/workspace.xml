@@ -6,14 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="25dfbdb8-f189-4c3e-be39-82322c6402b5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Aluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestaPerformace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TestaPerformace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestandoLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TestandoLista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TesteAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TesteAluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TesteAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TesteAula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TesteCurso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TesteCurso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TesteCurso2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TesteCurso2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TesteListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TesteListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/teste/TesteAlunoCurso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TesteAlunoCurso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +49,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.alura.teste" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="br.com.alura" />
     </key>
@@ -148,7 +146,7 @@
       <workItem from="1658843732347" duration="653000" />
       <workItem from="1658857336090" duration="5275000" />
       <workItem from="1658951366699" duration="2242000" />
-      <workItem from="1659033539828" duration="1102000" />
+      <workItem from="1659033539828" duration="4044000" />
     </task>
     <servers />
   </component>
