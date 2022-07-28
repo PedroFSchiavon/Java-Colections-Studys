@@ -1,4 +1,4 @@
-package br.com.alura;
+package br.com.alura.teste;
 
 import java.sql.SQLOutput;
 import java.util.ArrayList;

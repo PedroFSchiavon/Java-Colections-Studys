@@ -1,4 +1,6 @@
-package br.com.alura;
+package br.com.alura.teste;
+
+import br.com.alura.Aula;
 
 import java.util.ArrayList;
 import java.util.Collection;

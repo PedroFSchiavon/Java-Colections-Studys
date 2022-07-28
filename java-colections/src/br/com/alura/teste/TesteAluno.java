@@ -1,4 +1,4 @@
-package br.com.alura;
+package br.com.alura.teste;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -7,6 +7,13 @@
     <list default="true" id="25dfbdb8-f189-4c3e-be39-82322c6402b5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestaPerformace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TestaPerformace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestandoLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TestandoLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TesteAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TesteAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TesteAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TesteAula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TesteCurso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TesteCurso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TesteCurso2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TesteCurso2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TesteListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/teste/TesteListas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +58,13 @@
       <recent name="br.com.alura" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestaPerformace">
+  <component name="RunManager" selected="Application.TesteAlunoCurso">
     <configuration name="TestaPerformace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaPerformace" />
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.teste.TestaPerformace" />
       <module name="java-colections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="PATTERN" value="br.com.alura.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,11 +73,11 @@
       </method>
     </configuration>
     <configuration name="TesteAluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.TesteAluno" />
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.teste.TesteAluno" />
       <module name="java-colections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="PATTERN" value="br.com.alura.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.TesteCurso" />
+    <configuration name="TesteAlunoCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.teste.TesteAlunoCurso" />
       <module name="java-colections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="PATTERN" value="br.com.alura.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,11 +99,11 @@
       </method>
     </configuration>
     <configuration name="TesteCurso2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.TesteCurso2" />
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.teste.TesteCurso2" />
       <module name="java-colections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="PATTERN" value="br.com.alura.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +112,11 @@
       </method>
     </configuration>
     <configuration name="TesteListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.TesteListas" />
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.teste.TesteListas" />
       <module name="java-colections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="PATTERN" value="br.com.alura.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteAlunoCurso" />
         <item itemvalue="Application.TestaPerformace" />
         <item itemvalue="Application.TesteAluno" />
         <item itemvalue="Application.TesteCurso2" />
         <item itemvalue="Application.TesteListas" />
-        <item itemvalue="Application.TesteCurso" />
       </list>
     </recent_temporary>
   </component>
@@ -140,11 +147,23 @@
       <workItem from="1658748770660" duration="617000" />
       <workItem from="1658843732347" duration="653000" />
       <workItem from="1658857336090" duration="5275000" />
-      <workItem from="1658951366699" duration="1616000" />
+      <workItem from="1658951366699" duration="2242000" />
+      <workItem from="1659033539828" duration="1102000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
