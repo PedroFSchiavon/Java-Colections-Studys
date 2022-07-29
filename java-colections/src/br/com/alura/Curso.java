@@ -6,7 +6,8 @@ public class Curso {
     private final String nome;
     private final String instrutor;
     private final List<Aula> aulas = new ArrayList<>();
-    private final Set<Aluno> alunos = new HashSet<>();
+    private final Set<Aluno> alunos = new TreeSet<>();
+    private final Map<Integer, Aluno> matriculaParaAluno = new HashMap<>();;
 
     public Curso(String nome, String instrutor) {
         this.nome = nome;
@@ -40,11 +41,17 @@ public class Curso {
 
     public void matricular(Aluno aluno){
         this.alunos.add(aluno);
+        matriculaParaAluno.put(aluno.getNumeroMatricula(), aluno);
     }
 
     public boolean estaMatriculado(Aluno aluno){
         return this.alunos.contains(aluno);
     }
+
+    public Aluno buscaPorMatricula(int matricula){
+        return this.matriculaParaAluno.get(matricula);
+    }
+
 
     @Override
     public String toString() {
