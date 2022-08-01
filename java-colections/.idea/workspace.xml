@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25dfbdb8-f189-4c3e-be39-82322c6402b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Curso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +146,9 @@
       <workItem from="1658951366699" duration="2242000" />
       <workItem from="1659033539828" duration="4349000" />
       <workItem from="1659110888848" duration="2120000" />
-      <workItem from="1659116359770" duration="3778000" />
+      <workItem from="1659116359770" duration="4544000" />
+      <workItem from="1659361162288" duration="355000" />
+      <workItem from="1659361682087" duration="14000" />
     </task>
     <servers />
   </component>
